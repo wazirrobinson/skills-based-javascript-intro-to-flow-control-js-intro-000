@@ -20,7 +20,7 @@ function teenager(age) {
    } else if (age <= 12) {
      return "You are a kid";
    } else {
-     return "You are a grouwnup";
+     return "You are a grownup";
    }
 
  }
